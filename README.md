@@ -1,1 +1,1 @@
-Dummy template
+this is test template
